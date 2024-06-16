@@ -37,8 +37,12 @@ public class HomePage {
 		public WebElement getLogoutLink() {
 			return logoutLink;
 		}
+		
 		public WebElement getBooksLink() {
 			return booksLink;
+		}
+		public void setBooksLink(WebElement booksLink) {
+			this.booksLink = booksLink;
 		}
 		public WebElement getComputerLink() {
 			return computerLink;

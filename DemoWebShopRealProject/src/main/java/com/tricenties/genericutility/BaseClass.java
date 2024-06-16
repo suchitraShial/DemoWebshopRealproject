@@ -23,6 +23,7 @@ import com.aventstack.extentreports.reporter.ExtentSparkReporter;
 import com.tricenties.objectrepository.HomePage;
 import com.tricenties.objectrepository.LoginPage;
 import com.tricenties.objectrepository.WelcomePage;
+import com.tricentis.genericutility.ExcelUtility;
 
 
 
@@ -40,7 +41,7 @@ public class BaseClass {
 		
 		public Javautility jLib;
 		public Fileutility fLib;
-		public Excelutility eLib;
+		public ExcelUtility eLib;
 		
 		public com.tricenties.objectrepository.WelcomePage welcomePage;
 		public LoginPage loginPage;
