@@ -44,11 +44,7 @@
 		</dependency>
 
 
-		<dependency>
-			<groupId>qspiders</groupId>
-			<artifactId>AutomationFrameWork</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
-		</dependency>
+		
 	</dependencies>
 
 
